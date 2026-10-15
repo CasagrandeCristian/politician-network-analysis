@@ -1,0 +1,9 @@
+strategy,graph,step_to_below_0.05,percentage_removed_from_gc
+random,erdos_renyi,61,93.0
+random,barabasi_albert,38,72.0
+degree,erdos_renyi,31,75.6
+degree,barabasi_albert,10,24.4
+pagerank,erdos_renyi,33,77.0
+pagerank,barabasi_albert,13,26.0
+betweenness,erdos_renyi,34,76.4
+betweenness,barabasi_albert,10,26.0

@@ -1,0 +1,5 @@
+strategy,step_to_below_0.05,percentage_removed_from_gc,execution_time_seconds
+random,38,72.17332430602573,1.98
+degree,8,27.3696682464455,0.67
+pagerank,12,28.35138794854435,1.06
+betweenness,16,21.29316181448883,401.36

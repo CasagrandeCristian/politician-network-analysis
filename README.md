@@ -65,10 +65,4 @@ script, they print results to the terminal and/or write CSV files and plots to
 the current working directory. The committed `csv/` and `png/` directories
 contain example outputs from the completed experiments.
 
-## Acknowledgements
-
-ChatGPT was used as a support tool to explore analysis methods, develop parts
-of the plotting and data-processing logic, and review the English writing.
-Overleaf was used to create and format the LaTeX reports.
-
 ---
